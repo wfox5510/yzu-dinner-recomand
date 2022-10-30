@@ -1,0 +1,180 @@
+@keyframes openitemContainer {
+    0% {
+        width: 0px;
+        height: 0px;
+    }
+
+    50% {
+        width: 0px;
+        height: 596px;
+    }
+
+    100% {
+        width: 1096px;
+        height: 596px;
+    }
+}
+
+@keyframes openImg {
+    0% {
+        opacity: 0;
+        display: none;
+    }
+    50% {
+        opacity: 0;
+        display: none;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes showBtn {
+    0% {
+        opacity: 0;
+        display: none;
+    }
+    50% {
+        opacity: 0;
+        display: none;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.itemContainer {
+    animation: openitemContainer;
+    animation-duration: 2s;
+    position: relative;
+    background-color: rgb(229, 240, 228);
+    height: 596px;
+    width: 1096px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+.itemContainerChange {
+    animation: openitemContainer;
+    animation-duration: 2s;
+    position: relative;
+    background-color: rgb(229, 240, 228);
+    height: 596px;
+    width: 1096px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+.nonDisplay {
+    display: none;
+}
+
+.chosenItemImg{
+    animation: openImg;
+    animation-duration: 4s;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 300px;
+    position:absolute;
+    top:40px;
+    right:80px;
+}
+
+.leftImgBtn{
+    animation: showBtn;
+    animation-duration: 4s;
+    height: 60px;
+    width: 60px;
+    position:absolute;
+    top:168px;
+    right:480px;
+    cursor: pointer;
+}
+
+.rightImgBtn{
+    animation: showBtn;
+    animation-duration: 4s;
+    transform:scaleX(-1);
+    height: 60px;
+    width: 60px;
+    position:absolute;
+    top:168px;
+    right:20px;
+    cursor: pointer;
+}
+
+@media (max-width: 720px) {
+    @keyframes openitemContainer {
+        0% {
+            width: 0px;
+            height: 0px;
+        }
+    
+        50% {
+            width: 0px;
+            height: 596px;
+        }
+    
+        100% {
+            width: 80%;
+            height: 596px;
+        }
+    }
+    
+    .itemContainer {
+        animation: openitemContainer;
+        animation-duration: 2s;
+        position: relative;
+        background-color: rgb(229, 240, 228);
+        height: 596px;
+        width: 80%;
+        border-radius: 10px;
+        margin: 50px auto;
+    }
+    .itemContainerChange {
+        animation: openitemContainer;
+        animation-duration: 2s;
+        position: relative;
+        background-color: rgb(229, 240, 228);
+        height: 596px;
+        width: 80%;
+        border-radius: 10px;
+        margin: 50px auto;
+    }
+    .nonDisplay {
+        display: none;
+    }
+    .chosenItemImg{
+        animation: openImg;
+        animation-duration: 4s;
+        border-radius: 10px;
+        background-color: rgb(255, 255, 255);
+        width: 80%;
+        height: 250px;
+        position:absolute;
+        top:40px;
+        right:10%;
+    }
+    
+    .leftImgBtn{
+        animation: showBtn;
+        animation-duration: 4s;
+        height: 50px;
+        width: 50px;
+        position:absolute;
+        top:148px;
+        left:0px;
+        cursor: pointer;
+    }
+    
+    .rightImgBtn{
+        animation: showBtn;
+        animation-duration: 4s;
+        transform:scaleX(-1);
+        height: 50px;
+        width: 50px;
+        position:absolute;
+        top:148px;
+        right:0px;
+        cursor: pointer;
+    }
+}

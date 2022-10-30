@@ -12,9 +12,9 @@ function HomePage() {
         <div className="container">
             <div className="header">
                 <nav className='hamburgerMenu'>
-                    <label for="switch"><img className='menuIcon' src={burger} /></label>
+                    <label htmlFor="switch"><img className='menuIcon' src={burger} /></label>
                     <input type="checkbox" id="switch"></input>
-                    <ul class="menu">
+                    <ul className="menu">
                         <li><a href="##">最新消息</a></li>
                         <li><a href="##">線上訂餐</a></li>
                         <li><a href="##">登入會員</a></li>

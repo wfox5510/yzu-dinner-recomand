@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/yzu_dinner_recomand/static/css/main.c036428a.css",
+    "main.js": "/yzu_dinner_recomand/static/js/main.2d6f500a.js",
+    "static/js/787.3634e802.chunk.js": "/yzu_dinner_recomand/static/js/787.3634e802.chunk.js",
+    "static/media/smilefish02.jpg": "/yzu_dinner_recomand/static/media/smilefish02.53a75dba294542f47641.jpg",
+    "static/media/cattlesteak03.jpg": "/yzu_dinner_recomand/static/media/cattlesteak03.9d503db5ca70109c46de.jpg",
+    "static/media/cattlesteak.jpg": "/yzu_dinner_recomand/static/media/cattlesteak.a463a4fdaed5ef83f92b.jpg",
+    "static/media/cattlesteak01.jpg": "/yzu_dinner_recomand/static/media/cattlesteak01.16a275014efb6b691fc3.jpg",
+    "static/media/cattlesteak02.jpg": "/yzu_dinner_recomand/static/media/cattlesteak02.35d9fa72d1c1678aaef9.jpg",
+    "static/media/xiantao03.jpg": "/yzu_dinner_recomand/static/media/xiantao03.03a31a10cecf1d30abfc.jpg",
+    "static/media/AhZhong02.jpg": "/yzu_dinner_recomand/static/media/AhZhong02.c2f580e44561a3973830.jpg",
+    "static/media/AhZhong.jpg": "/yzu_dinner_recomand/static/media/AhZhong.9f874196585cbf293e1b.jpg",
+    "static/media/AhZhong01.jpg": "/yzu_dinner_recomand/static/media/AhZhong01.9f874196585cbf293e1b.jpg",
+    "static/media/AhZhong03.jpg": "/yzu_dinner_recomand/static/media/AhZhong03.2e93203fa7b05cd4c4e3.jpg",
+    "static/media/barbados03.jpg": "/yzu_dinner_recomand/static/media/barbados03.11c9c61b356994b66a48.jpg",
+    "static/media/xiantao.jpg": "/yzu_dinner_recomand/static/media/xiantao.0e55a8b08b07e80f8c0a.jpg",
+    "static/media/xiantao01.jpg": "/yzu_dinner_recomand/static/media/xiantao01.0e55a8b08b07e80f8c0a.jpg",
+    "static/media/catcoldnoodles01.jpg": "/yzu_dinner_recomand/static/media/catcoldnoodles01.22910b94e68651bece4a.jpg",
+    "static/media/catcoldnoodles03.jpg": "/yzu_dinner_recomand/static/media/catcoldnoodles03.d4f78adac7790252c462.jpg",
+    "static/media/xiantao02.jpg": "/yzu_dinner_recomand/static/media/xiantao02.7b3e77544e9fe1d3cb62.jpg",
+    "static/media/catcoldnoodles02.jpg": "/yzu_dinner_recomand/static/media/catcoldnoodles02.d902e0787f37c489a38a.jpg",
+    "static/media/smilefish01.jpg": "/yzu_dinner_recomand/static/media/smilefish01.4d06c1ab24474b15a9d4.jpg",
+    "static/media/smilefish03.jpg": "/yzu_dinner_recomand/static/media/smilefish03.9770f7730e7cb815b2c5.jpg",
+    "static/media/barbados02.jpg": "/yzu_dinner_recomand/static/media/barbados02.cb513417ce503584a4dd.jpg",
+    "static/media/barbados.jpg": "/yzu_dinner_recomand/static/media/barbados.329516166e020df22f41.jpg",
+    "static/media/smilefish.jpg": "/yzu_dinner_recomand/static/media/smilefish.9952dc04f6e2bc82064b.jpg",
+    "static/media/barbados01.jpg": "/yzu_dinner_recomand/static/media/barbados01.1ab930b4cf7e0b2d43f1.jpg",
+    "static/media/catcoldnoodles.jpg": "/yzu_dinner_recomand/static/media/catcoldnoodles.dad14e4dfb6e0ea289d7.jpg",
+    "static/media/burgerMenu.png": "/yzu_dinner_recomand/static/media/burgerMenu.6e02f2e61853addbec2a.png",
+    "static/media/banner.png": "/yzu_dinner_recomand/static/media/banner.bebb4165a52319c7edc6.png",
+    "index.html": "/yzu_dinner_recomand/index.html",
+    "static/media/imgBtn.svg": "/yzu_dinner_recomand/static/media/imgBtn.3177da426fa7a4eab9ba02537f4ab886.svg",
+    "main.c036428a.css.map": "/yzu_dinner_recomand/static/css/main.c036428a.css.map",
+    "main.2d6f500a.js.map": "/yzu_dinner_recomand/static/js/main.2d6f500a.js.map",
+    "787.3634e802.chunk.js.map": "/yzu_dinner_recomand/static/js/787.3634e802.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c036428a.css",
+    "static/js/main.2d6f500a.js"
+  ]
+}

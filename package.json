@@ -2,7 +2,7 @@
   "name": "yzu-dinner-recomand",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wfox5510.github.io/yzu_dinner_recomand",
+  "homepage": "https://wfox5510.github.io/yzu-dinner-recomand/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

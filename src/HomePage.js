@@ -31,7 +31,7 @@ function HomePage() {
 
             </div>
             <GuideBox itemState={itemState} setItemState={setItemState}></GuideBox>
-            <div className="bottom"></div>
+            <div className="footer"></div>
         </div>
     )
 }

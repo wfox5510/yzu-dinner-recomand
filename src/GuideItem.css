@@ -1,23 +1,23 @@
 .itemBlock{
-    height:346px;
-    width:346px;
+    height:306px;
+    width:306px;
     border-radius: 13px;
     background-color: aquamarine;
-    margin:93px;
-    margin-top:50px;
-    margin-bottom:50px;
+    margin:43px;
+    margin-top:30px;
+    margin-bottom:30px;
 }
 .itemImg{
     border-radius: 10px;
     display: block;
     margin: 0px auto;
-    height:346px;
-    width:346px;
+    height:306px;
+    width:306px;
 }
 @media (max-width: 720px) {
     .itemBlock{
-        height:200px;
-        width:200px;
+        height:150px;
+        width:150px;
         border-radius: 13px;
         background-color: aquamarine;
         margin:10px;
@@ -28,7 +28,7 @@
         border-radius: 10px;
         display: block;
         margin: 0px auto;
-        height:200px;
-        width:200px;
+        height:150px;
+        width:150px;
     }
 }

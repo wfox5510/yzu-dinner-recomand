@@ -116,7 +116,7 @@
     
         100% {
             width: 80%;
-            height: 596px;
+            height: 496px;
         }
     }
     
@@ -125,7 +125,7 @@
         animation-duration: 2s;
         position: relative;
         background-color: rgb(229, 240, 228);
-        height: 596px;
+        height: 496px;
         width: 80%;
         border-radius: 10px;
         margin: 50px auto;
@@ -135,7 +135,7 @@
         animation-duration: 2s;
         position: relative;
         background-color: rgb(229, 240, 228);
-        height: 596px;
+        height: 496px;
         width: 80%;
         border-radius: 10px;
         margin: 50px auto;
@@ -149,7 +149,7 @@
         border-radius: 10px;
         background-color: rgb(255, 255, 255);
         width: 80%;
-        height: 250px;
+        height: 200px;
         position:absolute;
         top:40px;
         right:10%;
@@ -161,7 +161,7 @@
         height: 50px;
         width: 50px;
         position:absolute;
-        top:148px;
+        top:108px;
         left:0px;
         cursor: pointer;
     }
@@ -173,7 +173,7 @@
         height: 50px;
         width: 50px;
         position:absolute;
-        top:148px;
+        top:108px;
         right:0px;
         cursor: pointer;
     }

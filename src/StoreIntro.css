@@ -41,16 +41,16 @@
         animation-duration: 4s;
         color: white;
         font-weight:bolder;
-        font-size: 18px;
+        font-size: 14px;
         background-color: rgb(46, 224, 165);
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
         border: 5px solid rgb(255, 255, 255);
         border-radius: 20px;
-        height:210px;
-        width:160px;
+        height:180px;
+        width:110px;
         position: absolute;
-        top:340px;
+        top:290px;
         right:1em;
     }
     .introHead{

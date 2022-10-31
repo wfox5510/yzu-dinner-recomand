@@ -47,11 +47,11 @@
         padding-right: 15px;
         border: 5px solid rgb(255, 255, 255);
         border-radius: 20px;
-        height:180px;
-        width:110px;
+        height:35%;
+        width:30%;
         position: absolute;
         top:290px;
-        right:1em;
+        right:5%;
     }
     .introHead{
         margin-top:10px;

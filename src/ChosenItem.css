@@ -143,16 +143,24 @@
     .nonDisplay {
         display: none;
     }
+    .imgBlock{
+        width: 300px;
+        height: 200px;
+        display: block;
+        position: relative;
+        top:40px;
+        margin: 0px auto;
+    }
     .chosenItemImg{
         animation: openImg;
         animation-duration: 4s;
+        display: block;
+        position: absolute;
         border-radius: 10px;
-        background-color: rgb(255, 255, 255);
-        width: 80%;
+        top:0;
+        left:0;
+        width: 300px;
         height: 200px;
-        position:absolute;
-        top:40px;
-        right:10%;
     }
     
     .leftImgBtn{

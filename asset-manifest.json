@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yzu-dinner-recomand/static/css/main.72d1efcc.css",
+    "main.css": "/yzu-dinner-recomand/static/css/main.b0c97492.css",
     "main.js": "/yzu-dinner-recomand/static/js/main.d3cc828b.js",
     "static/js/787.3634e802.chunk.js": "/yzu-dinner-recomand/static/js/787.3634e802.chunk.js",
     "static/media/smilefish02.jpg": "/yzu-dinner-recomand/static/media/smilefish02.53a75dba294542f47641.jpg",
@@ -31,12 +31,12 @@
     "static/media/banner.png": "/yzu-dinner-recomand/static/media/banner.bebb4165a52319c7edc6.png",
     "index.html": "/yzu-dinner-recomand/index.html",
     "static/media/imgBtn.svg": "/yzu-dinner-recomand/static/media/imgBtn.3177da426fa7a4eab9ba02537f4ab886.svg",
-    "main.72d1efcc.css.map": "/yzu-dinner-recomand/static/css/main.72d1efcc.css.map",
+    "main.b0c97492.css.map": "/yzu-dinner-recomand/static/css/main.b0c97492.css.map",
     "main.d3cc828b.js.map": "/yzu-dinner-recomand/static/js/main.d3cc828b.js.map",
     "787.3634e802.chunk.js.map": "/yzu-dinner-recomand/static/js/787.3634e802.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72d1efcc.css",
+    "static/css/main.b0c97492.css",
     "static/js/main.d3cc828b.js"
   ]
 }

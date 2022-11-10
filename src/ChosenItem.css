@@ -170,7 +170,7 @@
         width: 50px;
         position:absolute;
         top:108px;
-        left:0px;
+        left:-10px;
         cursor: pointer;
     }
     
@@ -182,7 +182,7 @@
         width: 50px;
         position:absolute;
         top:108px;
-        right:0px;
+        right:-10px;
         cursor: pointer;
     }
 }

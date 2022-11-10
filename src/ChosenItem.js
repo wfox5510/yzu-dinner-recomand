@@ -30,10 +30,11 @@ function ChosenItem({item, itemState, chosenItemImg }) {
     return (
         <div className={itemState}>
             <div className='imgBlock'><img className='chosenItemImg' src={chosenItemImg[imgOrder]} alt="chosenItemImg" /></div>
+            <StoreIntro itemState={itemState} storeName={chosenItemImg[3]}></StoreIntro>
             <GoogleMap storePos={storePos}></GoogleMap>
             <img src={imgBtn} className='leftImgBtn' alt='leftImgBtn' onClick={() => handleOnClick(1)} />
             <img src={imgBtn} className='rightImgBtn' alt='rightImgBtn' onClick={() => handleOnClick(-1)} />
-            <StoreIntro itemState={itemState} storeName={chosenItemImg[3]}></StoreIntro>
+            
         </div>
     )
 }

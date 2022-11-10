@@ -47,11 +47,11 @@
         }
         50% {
             width: 0px;
-            height: 40%;
+            height: 30%;
         }
         100% {
-            width: 45%;
-            height: 40%;
+            width: 80%;
+            height: 30%;
         }
     }
     .googleMapApi{
@@ -59,9 +59,10 @@
         animation-duration: 2s;
         border: 2px solid black;
         position: absolute;
-        height: 40%;
-        width: 45%;
-        top: 280px;
-        left:1.5em;
+        height: 30%;
+        width: 80%;
+        top: 450px;
+        left: 50%;
+        transform: translate(-50%,0%);
     }
 }

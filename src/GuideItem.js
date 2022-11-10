@@ -31,7 +31,7 @@ function GuideItem({ item, itemImg, itemState, setItemState, setChosenItemImg })
     function openItem() {
         if (phone.matches){
             setTimeout(() => {
-                window.scrollTo({ top: 260, behavior: "smooth" });
+                window.scrollTo({ top: 60, behavior: "smooth" });
             }, 300);
         }
         else{

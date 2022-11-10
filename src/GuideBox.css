@@ -15,6 +15,7 @@
 }
 @media (max-width: 720px) {
     .contentBlock {
+       
         margin: 0px auto;
         padding: 0px auto;
         width: 80%;
